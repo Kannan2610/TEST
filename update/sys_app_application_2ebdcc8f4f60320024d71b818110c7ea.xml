@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Testing Inbound</name>
+        <order>100</order>
+        <roles>x_64309_testing.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>kannan</sys_created_by>
+        <sys_created_on>2017-01-30 11:15:50</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2ebdcc8f4f60320024d71b818110c7ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Testing Inbound</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Testing" source="x_64309_testing">b92a450e4f60320024d71b818110c78b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Testing">b92a450e4f60320024d71b818110c78b</sys_scope>
+        <sys_update_name>sys_app_application_2ebdcc8f4f60320024d71b818110c7ea</sys_update_name>
+        <sys_updated_by>kannan</sys_updated_by>
+        <sys_updated_on>2017-01-30 11:15:50</sys_updated_on>
+        <title>Testing Inbound</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
